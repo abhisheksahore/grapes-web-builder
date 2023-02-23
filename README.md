@@ -1,2 +1,2 @@
-# grapes-web-builder
+# GrapeJS-react-example
 Created with CodeSandbox
